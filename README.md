@@ -1,4 +1,4 @@
 # firstrepo-demo
-Author-Piyush Wagh 
+Author-Piyush Wagh (legend)
 <br> 
 this is my repo
